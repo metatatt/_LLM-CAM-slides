@@ -9,25 +9,38 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 
 ### 自拍画时钟
-<img src="img/response1.png" alt="alt text" style="width: 60%;">
+<div style="text-align: right;">
+  <img src="img/response1.png" alt="alt text" style="width: 60%;">
+</div>
 
 ### 自拍处方单
-<img src="img/response1b.png" alt="alt text" style="width: 60%;">
+<div style="text-align: right;">
+  <img src="img/response1b.png" alt="alt text" style="width: 60%;">
+</div>
 
 ### 自拍餐盘
-<img src="img/response2.png" alt="alt text" style="width: 60%;">
-
+<div style="text-align: right;">
+  <img src="img/response2.png" alt="alt text" style="width: 60%;">
+</div>
 ### 自拍冰箱
-<img src="img/response2b.png" alt="alt text" style="width: 60%;">
+<div style="text-align: right;">
+  <img src="img/response2b.png" alt="alt text" style="width: 60%;">
+</div>
 
 ### 自拍户外健身区
-<img src="img/response3.png" alt="alt text" style="width: 60%;">
+<div style="text-align: right;">
+  <img src="img/response3.png" alt="alt text" style="width: 60%;">
+</div>
 
 ### 自拍厨房
-<img src="img/response4.png" alt="alt text" style="width: 60%;">
+<div style="text-align: right;">
+  <img src="img/response4.png" alt="alt text" style="width: 60%;">
+</div>
 
 ### （医生）自照海报墙（品牌体验）
-<img src="img/response5.png" alt="alt text" style="width: 60%;">
+<div style="text-align: right;">
+  <img src="img/response5.png" alt="alt text" style="width: 60%;">
+</div>
 
 ### （医生工具）拍照生成病例文本（记忆门诊only）
 有一些模板可以参考，来源：
@@ -35,8 +48,9 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 如何写https://m.medsci.cn/article/show_article.do?id=466021388226
 
 
-<img src="img/response6.png" alt="alt text" style="width: 90%;">
-
+<div style="text-align: right;">
+  <img src="img/response6.png" alt="alt text" style="width: 90%;">
+</div>
 
 ## 场景 ##
 <img src="img/scenario.svg" alt="alt text" style="width: 90%;">
@@ -52,8 +66,10 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 放在卫材大厅前部署：上线前，可以进行前部署，可以收集同事们的评语。
 
 ## B）医生用AI写病例：已经普遍 ##
-![alt text](img/image-1.png)
 
+<div style="text-align: right;">
+  <img src="img/image-1.png" alt="alt text" style="width: 90%;">
+</div>
 
 
 ---
