@@ -9,25 +9,25 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 
 ### 自拍画时钟
-<img src="img/response1.png" alt="alt text" style="width: 90%;">
+<img src="img/response1.png" alt="alt text" style="width: 60%;">
 
 ### 自拍处方单
-<img src="img/response1b.png" alt="alt text" style="width: 90%;">
+<img src="img/response1b.png" alt="alt text" style="width: 60%;">
 
 ### 自拍餐盘
-<img src="img/response2.png" alt="alt text" style="width: 90%;">
+<img src="img/response2.png" alt="alt text" style="width: 60%;">
 
 ### 自拍冰箱
-<img src="img/response2b.png" alt="alt text" style="width: 90%;">
+<img src="img/response2b.png" alt="alt text" style="width: 60%;">
 
 ### 自拍户外健身区
-<img src="img/response3.png" alt="alt text" style="width: 90%;">
+<img src="img/response3.png" alt="alt text" style="width: 60%;">
 
 ### 自拍厨房
-<img src="img/response4.png" alt="alt text" style="width: 90%;">
+<img src="img/response4.png" alt="alt text" style="width: 60%;">
 
 ### （医生）自照海报墙（品牌体验）
-<img src="img/response5.png" alt="alt text" style="width: 90%;">
+<img src="img/response5.png" alt="alt text" style="width: 60%;">
 
 ### （医生工具）拍照生成病例文本（记忆门诊only）
 有一些模板可以参考，来源：
@@ -35,7 +35,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 如何写https://m.medsci.cn/article/show_article.do?id=466021388226
 
 
-<img src="img/response6.png" alt="alt text" style="width: 90%;">
+<img src="img/response6.png" alt="alt text" style="width: 60%;">
 
 
 ## 场景 ##
