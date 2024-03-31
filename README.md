@@ -35,7 +35,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 如何写https://m.medsci.cn/article/show_article.do?id=466021388226
 
 
-<img src="img/response6.png" alt="alt text" style="width: 60%;">
+<img src="img/response6.png" alt="alt text" style="width: 90%;">
 
 
 ## 场景 ##
