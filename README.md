@@ -3,6 +3,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 处理Vi就会涉及照片，会涉及隐私。我们采用正规的技术平台，这些平台会在处理时去图像化，后台看不到用户的照片，我们也不保存用户记录。（演示后台）
 
+----
 ## 场景
 
 ### 自拍画时钟
@@ -10,30 +11,35 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
   <img src="img/response1a.png" alt="alt text" style="width: 90%;">
   <img src="img/response1.png" alt="alt text" style="width: 60%;">
 </div>
-
+----
+----
 ### 自拍处方单
 <div style="text-align: right;">
     <img src="img/response1c.png" alt="alt text" style="width: 90%;">
   <img src="img/response1b.png" alt="alt text" style="width: 60%;">
 </div>
-
+----
+----
 ### 自拍餐盘
 <div style="text-align: right;">
   <img src="img/response2.png" alt="alt text" style="width: 60%;">
 </div>
-
+----
+----
 ### 自拍冰箱
 <div style="text-align: right;">
   <img src="img/response2c.png" alt="alt text" style="width: 90%;">
   <img src="img/response2b.png" alt="alt text" style="width: 60%;">
 </div>
-
+----
+----
 ### 自拍户外健身区
 <div style="text-align: right;">
     <img src="img/response3c.png" alt="alt text" style="width: 90%;">
   <img src="img/response3.png" alt="alt text" style="width: 60%;">
 </div>
-
+----
+----
 ### 自拍厨房(检视安全隐患）
 <div style="text-align: right;">
   <img src="img/response4.jpg" alt="alt text" style="width: 90%;">
@@ -46,35 +52,46 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
       <img src="img/response5c.png" alt="alt text" style="width: 90%;">
 </div>
 人人爱欢自拍。如果导入LLM，自拍过程会更有趣。我们的做法：
-	> blockquote
-Ordered List	1. 评语照片中人物（表情、姿态、与气色）
-Ordered List	2. 陈述品牌形象
-Ordered List	3. 结合人物与品牌，做一个趣味陈述
+···
+1. 评语照片中人物（表情、姿态、与气色）
+
+2. 陈述品牌形象
+  
+3. 结合人物与品牌，做一个趣味陈述
+
+···
 
 利用科技，能让让用户更加享受自拍的乐趣。
 
 ----
 ### （医生工具）病历文本生成器（MCI）
+  <img src="img/response7.png" alt="alt text" style="width: 90%;">
 
+拍照纸张或屏幕，生成范文。
 
-有一些模板可以参考，来源：
+···
+参考源：如何写
+https://m.medsci.cn/article/show_article.do?id=466021388226
+···
 
-如何写https://m.medsci.cn/article/show_article.do?id=466021388226
-
-
+这是一个范例手稿
 <div style="text-align: right;">
   <img src="note.jpg" alt="alt text" style="width: 90%;">
 </div>
 ---
-看看下面的例子。
+
+实际生成
 
 ### 生成病历范文 ###
 
 样本范例（RAG+LLM生成）：	[病历3文本.md](病历3文本.md)
 
+----
+----
 ## 场景 ##
 <img src="img/scenario.svg" alt="alt text" style="width: 90%;">
 
+----
 ## A）用户体验：热点模拟 ##
 
 热点模拟显示：用户会积极参与自拍上传
@@ -91,8 +108,8 @@ Ordered List	3. 结合人物与品牌，做一个趣味陈述
   <img src="img/image-1.png" alt="alt text" style="width: 90%;">
 </div>
 
-
----
+----
+----
 ### 我司的工作流程：
 
 - **文章筛选与原创：** 精选相关文章。我司有医学编辑能力。
