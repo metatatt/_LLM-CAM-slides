@@ -40,12 +40,20 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
   <img src="img/response4.png" alt="alt text" style="width: 60%;">
 </div>
 
-### （医生）自照海报墙（品牌体验）
+----
+### （医生）自照海报墙：让自拍更有趣
 <div style="text-align: right;">
       <img src="img/response5c.png" alt="alt text" style="width: 90%;">
 </div>
-使用LLM评语照片中人物（正面、轻松），并且与品牌形象结合，让用户享受自拍的乐趣。
+人人爱欢自拍。如果导入LLM，自拍过程会更有趣。我们的做法：
+	> blockquote
+Ordered List	1. 评语照片中人物（表情、姿态、与气色）
+Ordered List	2. 陈述品牌形象
+Ordered List	3. 结合人物与品牌，做一个趣味陈述
 
+利用科技，能让让用户更加享受自拍的乐趣。
+
+----
 ### （医生工具）病历文本生成器（MCI）
 
 
