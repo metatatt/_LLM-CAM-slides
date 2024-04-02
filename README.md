@@ -43,8 +43,8 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 ### （医生）自照海报墙（品牌体验）
 <div style="text-align: right;">
       <img src="img/response5c.png" alt="alt text" style="width: 90%;">
-  <img src="img/response5.png" alt="alt text" style="width: 60%;">
 </div>
+使用LLM评语照片中人物（正面、轻松），并且与品牌形象结合，让用户享受自拍的乐趣。
 
 ### （医生工具）病历文本生成器（MCI）
 
@@ -60,7 +60,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 ---
 看看下面的例子。
 
-### [title](病历3文本.md) ###
+### 生成病历范文 ###
 
 样本范例（RAG+LLM生成）：	[病历3文本.md](病历3文本.md)
 
