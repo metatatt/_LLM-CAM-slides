@@ -7,6 +7,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 ### 自拍画时钟
 <div style="text-align: right;">
+  <img src="img/response1a.png" alt="alt text" style="width: 90%;">
   <img src="img/response1.png" alt="alt text" style="width: 60%;">
 </div>
 
@@ -34,10 +35,6 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 <div style="text-align: right;">
   <img src="img/response4.png" alt="alt text" style="width: 60%;">
 </div>
-
-### 合作团队助手
-供合作团队使用，促使各地的公益作业流程一致，并且指引各地活动。待与基金会讨论细节。
-（2024年合作团队有120个，估计全国各地约有数百场次（？）的活动。APP能够大幅改善基金会的辅导工作，增加活动效果。）
 
 ### （医生）自照海报墙（品牌体验）
 <div style="text-align: right;">
