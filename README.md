@@ -37,6 +37,11 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
   <img src="img/response4.png" alt="alt text" style="width: 60%;">
 </div>
 
+### 合作团队助手
+供合作团队使用，促使各地的公益作业流程一致，并且指引各地活动。待与基金会讨论细节。
+
+（2024年合作团队有120个，估计全国各地约有数百场次（？）的活动。APP能够大幅改善基金会的辅导工作，增加活动效果。）
+
 ### （医生）自照海报墙（品牌体验）
 <div style="text-align: right;">
   <img src="img/response5.png" alt="alt text" style="width: 60%;">
@@ -51,11 +56,12 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 <div style="text-align: right;">
   <img src="img/response6.png" alt="alt text" style="width: 90%;">
 </div>
-···
-以下是 [title](病历3文本.md)
-···
+---
 
-例：	[title](病历3文本.md)
+### [title](病历3文本.md) ###
+手写稿--> 文本生成器
+
+样本范例（RAG+LLM生成）：	[title](病历3文本.md)
 
 ## 场景 ##
 <img src="img/scenario.svg" alt="alt text" style="width: 90%;">
@@ -76,10 +82,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
   <img src="img/image-1.png" alt="alt text" style="width: 90%;">
 </div>
 
-## C）MCI病历
-例1：	[title](病历1文本.md)
-例2：	[title](病历2文本.md)
-例3：	[title](病历3文本.md)
+
 ---
 ### 我司的工作流程：
 
@@ -128,3 +131,11 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 ## 4. 2024年目标与【健康中国】
 
 以上为商业方案的基本内容，希望能解决当前普遍问题，帮助实现上述的大目标。未来我们也提出英文PPT，分享经验。
+
+---
+---
+
+## 附件：【黄手环行动】服务费用（历年金额）
+
+点击打开：	[title](黄手环服务费历史.md)
+
