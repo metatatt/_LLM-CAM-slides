@@ -10,7 +10,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 ### 自拍画时钟
 <div style="text-align: right;">
-  <img src="img/response1.png" alt="alt text" style="width: 60%;">
+  <img src="img/response2.png" alt="alt text" style="width: 60%;">
 </div>
 
 ### 自拍处方单
