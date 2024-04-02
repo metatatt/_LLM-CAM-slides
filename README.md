@@ -13,6 +13,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 ### 自拍处方单
 <div style="text-align: right;">
+    <img src="img/response1c.png" alt="alt text" style="width: 90%;">
   <img src="img/response1b.png" alt="alt text" style="width: 60%;">
 </div>
 
@@ -23,6 +24,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 ### 自拍冰箱
 <div style="text-align: right;">
+  <img src="img/response2c.png" alt="alt text" style="width: 90%;">
   <img src="img/response2b.png" alt="alt text" style="width: 60%;">
 </div>
 
@@ -31,7 +33,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
   <img src="img/response3.png" alt="alt text" style="width: 60%;">
 </div>
 
-### 自拍厨房
+### 自拍厨房(检视安全隐患）
 <div style="text-align: right;">
   <img src="img/response4.png" alt="alt text" style="width: 60%;">
 </div>
@@ -51,6 +53,8 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
   <img src="img/response6.png" alt="alt text" style="width: 90%;">
 </div>
 ---
+
+看看下面的例子。
 
 ### [title](病历3文本.md) ###
 手写稿--> 文本生成器
