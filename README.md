@@ -51,6 +51,11 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 <div style="text-align: right;">
   <img src="img/response6.png" alt="alt text" style="width: 90%;">
 </div>
+···
+以下是 [title](病历3文本.md)
+···
+
+例：	[title](病历3文本.md)
 
 ## 场景 ##
 <img src="img/scenario.svg" alt="alt text" style="width: 90%;">
