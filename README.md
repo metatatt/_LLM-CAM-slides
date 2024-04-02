@@ -1,9 +1,12 @@
+---
+---
 # LLM结合Vi #
 LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以训练，可以陈述专项内容（被称为专家LLM）。Vi （vision图像识别）能够正确识别众多生活物件与场景。把专家LLM与Vi结合是一个新的技术领域，未来的应用前景广泛。
 
 处理Vi就会涉及照片，会涉及隐私。我们采用正规的技术平台，这些平台会在处理时去图像化，后台看不到用户的照片，我们也不保存用户记录。（演示后台）
 
-----
+---
+---
 ## 场景
 
 ### 自拍画时钟
@@ -12,19 +15,16 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
   <img src="img/response1.png" alt="alt text" style="width: 60%;">
 </div>
 ----
-----
 ### 自拍处方单
 <div style="text-align: right;">
     <img src="img/response1c.png" alt="alt text" style="width: 90%;">
   <img src="img/response1b.png" alt="alt text" style="width: 60%;">
 </div>
 ----
-----
 ### 自拍餐盘
 <div style="text-align: right;">
   <img src="img/response2.png" alt="alt text" style="width: 60%;">
 </div>
-----
 ----
 ### 自拍冰箱
 <div style="text-align: right;">
@@ -78,7 +78,7 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
 <div style="text-align: right;">
   <img src="note.jpg" alt="alt text" style="width: 90%;">
 </div>
----
+----
 
 实际生成
 
@@ -86,8 +86,8 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
 
 样本范例（RAG+LLM生成）：	[病历3文本.md](病历3文本.md)
 
-----
-----
+---
+---
 ## 场景 ##
 <img src="img/scenario.svg" alt="alt text" style="width: 90%;">
 
@@ -108,8 +108,8 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
   <img src="img/image-1.png" alt="alt text" style="width: 90%;">
 </div>
 
-----
-----
+---
+---
 ### 我司的工作流程：
 
 - **文章筛选与原创：** 精选相关文章。我司有医学编辑能力。
@@ -138,7 +138,7 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
         文章内容包含，药物治疗结合生活干预、脑与AB淀粉蛋白、
         预防与健康老龄化等主题。
         
-
+----
 ** **  
 ## 3. 项目资源
 
