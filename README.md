@@ -7,7 +7,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 ---
 ## 应用场景1: 帮助老人读者
 
-### 自拍画时钟
+### 自拍画时钟：到底它在评估什么？
 <div style="text-align: right;">
   <img src="img/response1a.png" alt="alt text" style="width: 90%;">
   <img src="img/response1.png" alt="alt text" style="width: 60%;">
@@ -15,7 +15,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 ----
 
-### 自拍处方单
+### 自拍处方单：用药时要避免哪些食物？
 <div style="text-align: right;">
     <img src="img/response1c.png" alt="alt text" style="width: 90%;">
   <img src="img/response1b.png" alt="alt text" style="width: 60%;">
@@ -23,7 +23,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 ----
 
-### 自拍餐盘
+### 自拍餐盘：理解它们的健康影响
 <div style="text-align: right;">
     <img src="img/response2d.png" alt="alt text" style="width: 90%;">
   <img src="img/response2.png" alt="alt text" style="width: 60%;">
@@ -31,7 +31,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 ----
 
-### 自拍冰箱
+### 自拍冰箱：给你建议，做出美美的菜肴
 <div style="text-align: right;">
   <img src="img/response2c.png" alt="alt text" style="width: 90%;">
   <img src="img/response2b.png" alt="alt text" style="width: 60%;">
@@ -39,7 +39,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 ----
 
-### 自拍户外健身区
+### 自拍户外健身区：今天适合什么锻炼，给你建议
 <div style="text-align: right;">
     <img src="img/response3c.png" alt="alt text" style="width: 90%;">
   <img src="img/response3.png" alt="alt text" style="width: 60%;">
@@ -47,7 +47,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 ----
 
-### 自拍厨房(检视安全隐患）
+### 自拍厨房：检视常见的安全隐患
 <div style="text-align: right;">
   <img src="img/response4.jpg" alt="alt text" style="width: 90%;">
   <img src="img/response4.png" alt="alt text" style="width: 60%;">
