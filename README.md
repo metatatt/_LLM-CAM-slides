@@ -1,11 +1,9 @@
 ---
----
 # LLM结合Vi #
 LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以训练，可以陈述专项内容（被称为专家LLM）。Vi （vision图像识别）能够正确识别众多生活物件与场景。把专家LLM与Vi结合是一个新的技术领域，未来的应用前景广泛。
 
 处理Vi就会涉及照片，会涉及隐私。我们采用正规的技术平台，这些平台会在处理时去图像化，后台看不到用户的照片，我们也不保存用户记录。（演示后台）
 
----
 ---
 ## 场景
 
@@ -14,32 +12,40 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
   <img src="img/response1a.png" alt="alt text" style="width: 90%;">
   <img src="img/response1.png" alt="alt text" style="width: 60%;">
 </div>
+
 ----
+
 ### 自拍处方单
 <div style="text-align: right;">
     <img src="img/response1c.png" alt="alt text" style="width: 90%;">
   <img src="img/response1b.png" alt="alt text" style="width: 60%;">
 </div>
+
 ----
+
 ### 自拍餐盘
 <div style="text-align: right;">
   <img src="img/response2.png" alt="alt text" style="width: 60%;">
 </div>
+
 ----
+
 ### 自拍冰箱
 <div style="text-align: right;">
   <img src="img/response2c.png" alt="alt text" style="width: 90%;">
   <img src="img/response2b.png" alt="alt text" style="width: 60%;">
 </div>
+
 ----
-----
+
 ### 自拍户外健身区
 <div style="text-align: right;">
     <img src="img/response3c.png" alt="alt text" style="width: 90%;">
   <img src="img/response3.png" alt="alt text" style="width: 60%;">
 </div>
+
 ----
-----
+
 ### 自拍厨房(检视安全隐患）
 <div style="text-align: right;">
   <img src="img/response4.jpg" alt="alt text" style="width: 90%;">
@@ -47,32 +53,34 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 </div>
 
 ----
+
 ### （医生）自照海报墙：让自拍更有趣
 <div style="text-align: right;">
       <img src="img/response5c.png" alt="alt text" style="width: 90%;">
 </div>
 人人爱欢自拍。如果导入LLM，自拍过程会更有趣。我们的做法：
-···
+
+'''
 1. 评语照片中人物（表情、姿态、与气色）
 
 2. 陈述品牌形象
   
 3. 结合人物与品牌，做一个趣味陈述
-
-···
+'''
 
 利用科技，能让让用户更加享受自拍的乐趣。
 
 ----
+
 ### （医生工具）病历文本生成器（MCI）
   <img src="img/response7.png" alt="alt text" style="width: 90%;">
 
 拍照纸张或屏幕，生成范文。
 
-···
+'''
 参考源：如何写
 https://m.medsci.cn/article/show_article.do?id=466021388226
-···
+'''
 
 这是一个范例手稿
 <div style="text-align: right;">
