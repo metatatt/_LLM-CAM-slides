@@ -56,7 +56,22 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 ----
 
 ---
-## 应用场景2: 帮助医生
+## 应用场景2: 节日活动推广（黄手环公益）
+
+### 母亲节：摄像机（主题与形式待设计）
+<div style="text-align: right;">
+  <img src="img/response-mother.png" alt="alt text" style="width: 90%;">
+</div>
+
+----
+### 重阳节：摄像机（主题与形式待设计）
+<div style="text-align: right;">
+  <img src="img/response-elderly.png" alt="alt text" style="width: 90%;">
+</div>
+
+
+---
+## 应用场景3: 帮助医生
 
 ### （医生）自照海报墙：让自拍更有趣
 <div style="text-align: right;">
