@@ -5,7 +5,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 处理Vi就会涉及照片，会涉及隐私。我们采用正规的技术平台，这些平台会在处理时去图像化，后台看不到用户的照片，我们也不保存用户记录。（演示后台）
 
 ---
-## 场景
+## 场景1: 读者
 
 ### 自拍画时钟
 <div style="text-align: right;">
@@ -55,6 +55,15 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 ----
 
+---
+## 场景2: 基金会与团队
+
+2024年-全国各地有130支合作团队，预计数百场活动。亟需良好工具以引导这些团队，包含：场地部署、陈述沟通、与老人互动等等。
+
+<div style="text-align: right;">
+  <img src="img/response8.png" alt="alt text" style="width: 90%;">
+</div>
+
 ### （医生）自照海报墙：让自拍更有趣
 <div style="text-align: right;">
       <img src="img/response5c.png" alt="alt text" style="width: 90%;">
@@ -96,11 +105,11 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
 样本范例（RAG+LLM生成）：	[病历3文本.md](病历3文本.md)
 
 ---
----
 ## 场景 ##
 <img src="img/scenario.svg" alt="alt text" style="width: 90%;">
 
 ----
+
 ## A）用户体验：热点模拟 ##
 
 热点模拟显示：用户会积极参与自拍上传
@@ -117,7 +126,6 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
   <img src="img/image-1.png" alt="alt text" style="width: 90%;">
 </div>
 
----
 ---
 ### 我司的工作流程：
 
