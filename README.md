@@ -30,20 +30,25 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 ### 自拍户外健身区
 <div style="text-align: right;">
+    <img src="img/response3c.png" alt="alt text" style="width: 90%;">
   <img src="img/response3.png" alt="alt text" style="width: 60%;">
 </div>
 
 ### 自拍厨房(检视安全隐患）
 <div style="text-align: right;">
+  <img src="img/response4c.png" alt="alt text" style="width: 90%;">
   <img src="img/response4.png" alt="alt text" style="width: 60%;">
 </div>
 
 ### （医生）自照海报墙（品牌体验）
 <div style="text-align: right;">
+      <img src="img/response5c.png" alt="alt text" style="width: 90%;">
   <img src="img/response5.png" alt="alt text" style="width: 60%;">
 </div>
 
 ### （医生工具）病历文本生成器（MCI）
+
+
 有一些模板可以参考，来源：
 
 如何写https://m.medsci.cn/article/show_article.do?id=466021388226
