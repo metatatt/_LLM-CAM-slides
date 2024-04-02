@@ -31,7 +31,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 ----
 
-### 自拍冰箱：给你建议，做出美美的菜肴
+### 自拍冰箱：给你建议，帮助烹饪出美美的佳肴
 <div style="text-align: right;">
   <img src="img/response2c.png" alt="alt text" style="width: 90%;">
   <img src="img/response2b.png" alt="alt text" style="width: 60%;">
