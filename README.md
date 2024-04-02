@@ -110,7 +110,7 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
 
 放在卫材大厅前部署：上线前，可以进行前部署，可以收集同事们的评语。
 
-## B）医生用AI写病历：已经普遍 ##
+## B）医生用AI写病历：已经普遍（不是违规行为！） ##
 
 <div style="text-align: right;">
   <img src="img/image-1.png" alt="alt text" style="width: 90%;">
