@@ -1,12 +1,9 @@
-# LLM结合Vi
+S# LLM结合Vi
 LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以训练，可以陈述专项内容（被称为专家LLM）。Vi （vision图像识别）能够正确识别众多生活物件与场景。把专家LLM与Vi结合是一个新的技术领域，未来的应用前景广泛。
 
 处理Vi就会涉及照片，会涉及隐私。我们采用正规的技术平台，这些平台会在处理时去图像化，后台看不到用户的照片，我们也不保存用户记录。（演示后台）
 
-
-
 ## 场景
-
 
 ### 自拍画时钟
 <div style="text-align: right;">
@@ -22,6 +19,8 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 <div style="text-align: right;">
   <img src="img/response2.png" alt="alt text" style="width: 60%;">
 </div>
+![image](https://github.com/metatatt/_LLM-CAM-slides/assets/100538673/910e9f20-fff8-4f67-a2e0-713b2b2ffad2)
+
 ### 自拍冰箱
 <div style="text-align: right;">
   <img src="img/response2b.png" alt="alt text" style="width: 60%;">
