@@ -42,7 +42,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
   <img src="img/response5.png" alt="alt text" style="width: 60%;">
 </div>
 
-### （医生工具）拍照生成病例文本（记忆门诊only）
+### （医生工具）病历文本生成器（MCI）
 有一些模板可以参考，来源：
 
 如何写https://m.medsci.cn/article/show_article.do?id=466021388226
@@ -65,13 +65,16 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 放在卫材大厅前部署：上线前，可以进行前部署，可以收集同事们的评语。
 
-## B）医生用AI写病例：已经普遍 ##
+## B）医生用AI写病历：已经普遍 ##
 
 <div style="text-align: right;">
   <img src="img/image-1.png" alt="alt text" style="width: 90%;">
 </div>
 
-
+## C）MCI病历
+例1：	[title](病历1文本.md)
+例2：	[title](病历2文本.md)
+例3：	[title](病历3文本.md)
 ---
 ### 我司的工作流程：
 
