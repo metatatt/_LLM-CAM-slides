@@ -55,14 +55,12 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 
 <div style="text-align: right;">
-  <img src="img/response6.png" alt="alt text" style="width: 90%;">
+  <img src="note.jpg" alt="alt text" style="width: 90%;">
 </div>
 ---
-
 看看下面的例子。
 
 ### [title](病历3文本.md) ###
-手写稿--> 文本生成器
 
 样本范例（RAG+LLM生成）：	[病历3文本.md](病历3文本.md)
 
