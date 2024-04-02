@@ -36,7 +36,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 
 ### 自拍厨房(检视安全隐患）
 <div style="text-align: right;">
-  <img src="img/response4c.png" alt="alt text" style="width: 90%;">
+  <img src="img/response4.jpg" alt="alt text" style="width: 90%;">
   <img src="img/response4.png" alt="alt text" style="width: 60%;">
 </div>
 
