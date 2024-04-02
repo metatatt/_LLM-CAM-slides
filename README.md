@@ -7,7 +7,7 @@ LLM（大语言模型）善于叙事，能够陈述各种内容，如果加以�
 ---
 ## 应用场景1: 帮助老人读者
 
-### 自拍画时钟：到底它在评估什么？
+### 自拍画时钟：画出11点10分，看点评与分析
 <div style="text-align: right;">
   <img src="img/response1a.png" alt="alt text" style="width: 90%;">
   <img src="img/response1.png" alt="alt text" style="width: 60%;">
