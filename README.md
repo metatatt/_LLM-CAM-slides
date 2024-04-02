@@ -115,7 +115,8 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
 样本范例（RAG+LLM生成）：	[病历3文本.md](病历3文本.md)
 
 ---
-## 场景 ##
+
+## 应用场景图示 ##
 <img src="img/scenario.svg" alt="alt text" style="width: 90%;">
 
 ----
