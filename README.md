@@ -22,7 +22,7 @@
 经过工程+内容整理，可以生成【热点】科技平台
 
 ---
-## 【热点】：根据上传的照片，提高热点知识或热点提示 
+## 【热点】：根据上传的照片，专家知识库提示热点 
  
   **专家知识库**： 对海量内容加以整理，使成为大型的专家知识库模型。
   
@@ -85,22 +85,22 @@
 ----
 
 ---
-## 【热点】场景2: 节日活动推广（黄手环公益）
+## 场景2: 节日活动推广（黄手环公益）
 
-### 母亲节：摄像机（主题与形式待设计）
+### 母亲节【热点】：摄像机（主题与形式待设计）
 <div style="text-align: right;">
   <img src="img/response-mother.png" alt="alt text" style="width: 90%;">
 </div>
 
 ----
-### 重阳节：摄像机（主题与形式待设计）
+### 重阳节【热点】：摄像机（主题与形式待设计）
 <div style="text-align: right;">
   <img src="img/response-elderly.png" alt="alt text" style="width: 90%;">
 </div>
 
 
 ---
-## 【热点】场景3: 帮助医生
+## 场景3: 帮助医生
 
 ### 【热点】自拍：让自拍更有趣
 <div style="text-align: right;">
@@ -165,11 +165,12 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
   <img src="img/image-1.png" alt="alt text" style="width: 90%;">
 </div>
 
-## C）热点保护：安全平台，不侵犯隐私，不存用户数据（守法！） ##
+## C）【热点】保护：安全平台，不侵犯隐私，不存用户数据（守法！） ##
 
 后台看不到用户的照片，我们也不保存用户记录。
 
   <img src="img/后台保护隐私.jpg" alt="alt text" style="width: 90%;">
+
 ---
 ### 我司的工作内容：
 
