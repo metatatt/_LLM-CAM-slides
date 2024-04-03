@@ -223,9 +223,9 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
 
 3）（示范如何使用科技）协助基层卫生单位的工作
 
-江西卫健委：使用AI帮助基层医生的工作
+江西卫健委分享<村村通>的实施细节：使用AI科技帮助基层医生的工作
 
-  <img src="img/江西卫管.png" alt="alt text" style="width: 90%;">
+  <img src="img/江西卫管.png" alt="alt text" style="width: 70%;">
 
 
 
