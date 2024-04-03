@@ -102,7 +102,7 @@
 ---
 ## 【热点】场景3: 帮助医生
 
-### （医生）自照海报墙：让自拍更有趣
+### 【热点】自拍：让自拍更有趣
 <div style="text-align: right;">
       <img src="img/response5c.png" alt="alt text" style="width: 90%;">
 </div>
@@ -120,11 +120,11 @@
 
 ----
 
-### 病历文本生成器（MCI）：临床任务繁忙，让摄像头来帮忙...
+### 【热点】病历成器：临床任务繁忙，让摄像头来帮忙...
 
   <img src="img/response7.png" alt="alt text" style="width: 90%;">
 
-拍照纸张或屏幕，生成范文。
+拍照纸张或屏幕，只要有热点（MCI相关的关键词文字或图表）就会生成MCI病历范文。
 
 '''
 参考源：如何写
@@ -132,6 +132,7 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
 '''
 
 这是一个范例手稿
+
 <div style="text-align: right;">
   <img src="note.jpg" alt="alt text" style="width: 90%;">
 </div>
@@ -139,26 +140,24 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
 
 实际生成
 
-### 生成病历范文 ###
+### 病历范文 ###
 
 样本范例（RAG+LLM生成）：	[病历3文本.md](病历3文本.md)
 
 ---
 
-## 应用场景图示 ##
+## 【热点】场景示意图 ##
 <img src="img/scenario.svg" alt="alt text" style="width: 90%;">
 
 ----
 
-## A）用户体验：热点模拟 ##
+## A）用户体验：HeatMap模拟 ##
 
-热点模拟显示：用户会积极参与自拍上传
+模拟显示：用户会关注，并且积极参与自拍上传
 
 <img src="img/screenHeatMap2.png" alt="alt text" style="width:95%;">
 
-（自拍墙，经济实惠，内外兼修）
-
-放在卫材大厅前部署：上线前，可以进行前部署，可以收集同事们的评语。
+（热点自拍：可以先做试运行，收集同事们评语。）
 
 ## B）医生用AI写病历：已经普遍（不是违规行为！） ##
 
@@ -166,22 +165,24 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
   <img src="img/image-1.png" alt="alt text" style="width: 90%;">
 </div>
 
-## C）安全平台，不侵犯隐私，不存用户数据（守法！） ##
+## C）热点保护：安全平台，不侵犯隐私，不存用户数据（守法！） ##
 
-后台看不到用户的照片，我们也不保存用户记录。 
+后台看不到用户的照片，我们也不保存用户记录。
+
   <img src="img/后台保护隐私.jpg" alt="alt text" style="width: 90%;">
 ---
 ### 我司的工作内容：
 
-- **开发基底平台：** 
+- **开发【热点】基底平台：** 
       工程开发【热点】专家知识库，进行索引
 
-- **每APP开发：** 
+- **每个【热点APP】开发：** 
       Full stack 开发，保护前端J与后台
   
 - **部署与运营：** 
-      确保在微信环境下启动，运行
-        
+      部署在微信公众号
+      部署在微信文章页
+      部署在微信环境的点击启动
 ----
 ** **  
 ## 3. 项目资源
@@ -200,6 +201,7 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
 ## 4. 本项目精神：
 
 希望响下列政府项目
+
 1）国家卫健委【数字健康典型案例】(2023年5月，活动征集）
 
 `
@@ -207,6 +209,7 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
 
 重点推荐新一代信息技术（人工智能、5G、区块链、物联网等）在临床辅助决策支持、医院智能管理、医疗机器人应用、公共卫生服务、教学与科研、急诊救治、远程诊断及治疗、远程重症监护、健康管理、健康档案共享、药械流通信息追溯等方面的案例。
 `
+
 2023年案例名单：http://www.nhc.gov.cn/mohwsbwstjxxzx/s8553/202309/ec2a4bd6437a4813a330c17c06973d9b/files/6c6369c85b6e45af8794b7de4d34ddc6.pdf
 
 2）国家发改委【数字医疗拓展应用场景】（2023年7月，专家意见）
@@ -216,9 +219,11 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
 
 （单志广：信息化主任）
 `
+
 意见稿：https://www.ndrc.gov.cn/wsdwhfz/202307/t20230714_1358366.html
 
 
-以上为商业方案的基本内容，希望能解决当前普遍问题，帮助实现上述的大目标。未来我们也提出英文PPT，分享经验。
+---
+
 
 
