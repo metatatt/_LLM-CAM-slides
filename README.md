@@ -221,6 +221,15 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
 （单志广：信息化主任）
 `
 
+3）（示范如何使用科技）协助基层卫生单位的工作
+
+江西卫健委：使用AI帮助基层医生的工作
+
+  <img src="img/江西卫管.png" alt="alt text" style="width: 90%;">
+
+
+
+
 意见稿：https://www.ndrc.gov.cn/wsdwhfz/202307/t20230714_1358366.html
 
 
