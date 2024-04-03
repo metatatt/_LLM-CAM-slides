@@ -227,7 +227,7 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
 
   <img src="img/江西卫管.png" alt="alt text" style="width: 70%;">
 
-4）《关于利用人工智能技术加速推进老龄守护的若干建议》议案（2022年两会）
+4）《关于利用人工智能技术加速推进**老龄守护**的若干建议》议案（2022年两会）
 
 发改委意见稿：https://www.ndrc.gov.cn/wsdwhfz/202307/t20230714_1358366.html
 
