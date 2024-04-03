@@ -228,9 +228,7 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
   <img src="img/江西卫管.png" alt="alt text" style="width: 70%;">
 
 
-
-
-意见稿：https://www.ndrc.gov.cn/wsdwhfz/202307/t20230714_1358366.html
+发改委意见稿：https://www.ndrc.gov.cn/wsdwhfz/202307/t20230714_1358366.html
 
 
 ---
