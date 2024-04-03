@@ -155,7 +155,7 @@ https://m.medsci.cn/article/show_article.do?id=466021388226
 
 模拟显示：用户会关注，并且积极参与自拍上传
 
-<img src="img/screenHeatMap2.png" alt="alt text" style="width:95%;">
+<img src="img/heatMap.png" alt="alt text" style="width:60%;">
 
 （热点自拍：可以先做试运行，收集同事们评语。）
 
