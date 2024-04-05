@@ -100,7 +100,8 @@
 
 ### 【热点】自拍：让自拍更有趣
 
-![image](https://github.com/metatatt/_LLM-CAM-slides/assets/100538673/9bd10f95-50fd-41af-a9fc-b68fa1f557b2)
+![image](https://github.com/metatatt/_LLM-CAM-slides/assets/100538673/d3ed869c-1867-412d-b68c-e9a0021aea91)
+
 
 人人爱欢自拍。如果导入LLM，自拍过程会更有趣。我们的做法：
 
