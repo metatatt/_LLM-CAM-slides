@@ -119,14 +119,11 @@
 
 ### 【热点】病历成器：临床任务繁忙，让摄像头来帮忙...
 
-  <img src="img/response7.png" alt="alt text" style="width: 90%;">
-
 拍照纸张或屏幕，只要有热点（MCI相关的关键词文字或图表）就会生成MCI病历范文。
 
-'''
-参考源：如何写
-https://m.medsci.cn/article/show_article.do?id=466021388226
-'''
+![image](https://github.com/metatatt/_LLM-CAM-slides/assets/100538673/c1ba787f-1ad7-4fd6-8d2c-5826f5c3c7f6)
+
+
 
 这是一个范例手稿
 
