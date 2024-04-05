@@ -91,16 +91,8 @@
 ---
 ## 场景2: 节日活动推广（黄手环公益）
 
-### 母亲节【热点】：摄像机（主题与形式待设计）
-<div style="text-align: right;">
-  <img src="img/response-mother.png" alt="alt text" style="width: 90%;">
-</div>
+![image](https://github.com/metatatt/_LLM-CAM-slides/assets/100538673/3c79ccab-18e5-4dfe-af3c-6eed4c864b24)
 
-----
-### 重阳节【热点】：摄像机（主题与形式待设计）
-<div style="text-align: right;">
-  <img src="img/response-elderly.png" alt="alt text" style="width: 90%;">
-</div>
 
 
 ---
