@@ -99,15 +99,15 @@
 ## 场景3: 帮助医生
 
 ### 【热点】自拍：让自拍更有趣
-<div style="text-align: right;">
-      <img src="img/response5c.png" alt="alt text" style="width: 90%;">
-</div>
+
+![image](https://github.com/metatatt/_LLM-CAM-slides/assets/100538673/9bd10f95-50fd-41af-a9fc-b68fa1f557b2)
+
 人人爱欢自拍。如果导入LLM，自拍过程会更有趣。我们的做法：
 
 '''
-1. 评语照片中人物（表情、姿态、与气色）
+1. 评语照片中人物（表情、姿态、与气色）：赞美陈述
 
-2. 陈述品牌形象
+2. 陈述品牌形象：价值性陈述
   
 3. 结合人物与品牌，做一个趣味陈述
 '''
