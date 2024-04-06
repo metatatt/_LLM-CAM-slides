@@ -43,7 +43,7 @@
 
 ### 自拍画时钟：画出11点10分，看点评与分析
 <div style="text-align: right;">
-  <img src="img/response1a.png" alt="alt text" style="width: 50%;">
+  <img src="img/response1a.png" alt="alt text" style="width: 60%;">
   <img src="img/response1.png" alt="alt text" style="width: 60%;">
 </div>
 
@@ -51,7 +51,7 @@
 
 ### 自拍处方单：用药时要避免哪些食物？
 <div style="text-align: right;">
-    <img src="img/response1c.png" alt="alt text" style="width: 50%;">
+    <img src="img/response1c.png" alt="alt text" style="width: 60%;">
   <img src="img/response1b.png" alt="alt text" style="width: 60%;">
 </div>
 
@@ -59,7 +59,7 @@
 
 ### 自拍餐盘：理解它们的健康影响
 <div style="text-align: right;">
-    <img src="img/response2d.png" alt="alt text" style="width: 50%;">
+    <img src="img/response2d.png" alt="alt text" style="width: 60%;">
   <img src="img/response2.png" alt="alt text" style="width: 60%;">
 </div>
 
@@ -67,7 +67,7 @@
 
 ### 自拍冰箱：给你建议，帮助烹饪出美美的佳肴
 <div style="text-align: right;">
-  <img src="img/response2c.png" alt="alt text" style="width: 50%;">
+  <img src="img/response2c.png" alt="alt text" style="width: 60%;">
   <img src="img/response2b.png" alt="alt text" style="width: 60%;">
 </div>
 
@@ -75,7 +75,7 @@
 
 ### 自拍户外健身区：今天适合什么锻炼，给你建议
 <div style="text-align: right;">
-    <img src="img/response3c.png" alt="alt text" style="width: 50%;">
+    <img src="img/response3c.png" alt="alt text" style="width: 60%;">
   <img src="img/response3.png" alt="alt text" style="width: 60%;">
 </div>
 
@@ -83,7 +83,7 @@
 
 ### 自拍厨房：检视常见的安全隐患
 <div style="text-align: right;">
-  <img src="img/response4.jpg" alt="alt text" style="width: 50%;">
+  <img src="img/response4.jpg" alt="alt text" style="width: 70%;">
   <img src="img/response4.png" alt="alt text" style="width: 60%;">
 </div>
 
