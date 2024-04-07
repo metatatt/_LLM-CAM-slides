@@ -23,15 +23,15 @@
 * 经过工程+内容整理，可以生成【热点】科技平台
 
 ---
-## 【热点】：上传的照片，获得专家知识库中的相关“热点” 
+## 【热点】：生活四周，处处都隐藏有 
  
-* **专家知识库**： 对海量内容加以整理，使成为大型的专家知识库模型。
+* **专家知识库**： 海量内容，庞大的知识库
   
-* **上传照片**：手机摄像头提供高像素图片，上传
+* **上传照片**：手机高像素照片
   
-* **热点提示**：比对图片，检索相关的知识点，提供对用户有帮助的“热点知识”。
+* **热点提示**：图片与知识热点，检索匹配
   
-* **安全性**：采用正规的技术平台（微软云端），我们看不到用户的照片，我们也不保存用户记录。 
+* **安全性**：平台（微软云端）去图像化，我们无法看到照片，也不保存用户信息。 
 
 ---
 <img src="img/scenario.svg" alt="alt text" style="width: 100%;">
@@ -47,7 +47,7 @@
 ### 自拍画时钟：画出11点10分，看点评与分析
 <div style="text-align: right;">
   <img src="img/response1a.png" alt="alt text" style="width: 60%;">
-  <img src="img/response1.png" alt="alt text" style="width: 60%;">
+  <img src="img/response1.png" alt="alt text" style="width: 90%;">
 </div>
 
 ----
@@ -55,7 +55,7 @@
 ### 自拍处方单：用药时要避免哪些食物？
 <div style="text-align: right;">
     <img src="img/response1c.png" alt="alt text" style="width: 60%;">
-  <img src="img/response1b.png" alt="alt text" style="width: 60%;">
+  <img src="img/response1b.png" alt="alt text" style="width: 90%;">
 </div>
 
 ----
@@ -63,7 +63,7 @@
 ### 自拍餐盘：理解它们的健康影响
 <div style="text-align: right;">
     <img src="img/response2d.png" alt="alt text" style="width: 60%;">
-  <img src="img/response2.png" alt="alt text" style="width: 60%;">
+  <img src="img/response2.png" alt="alt text" style="width: 90%;">
 </div>
 
 ----
@@ -71,7 +71,7 @@
 ### 自拍冰箱：给你建议，帮助烹饪出美美的佳肴
 <div style="text-align: right;">
   <img src="img/response2c.png" alt="alt text" style="width: 60%;">
-  <img src="img/response2b.png" alt="alt text" style="width: 60%;">
+  <img src="img/response2b.png" alt="alt text" style="width: 90%;">
 </div>
 
 ----
@@ -79,7 +79,7 @@
 ### 自拍户外健身区：今天适合什么锻炼，给你建议
 <div style="text-align: right;">
     <img src="img/response3c.png" alt="alt text" style="width: 60%;">
-  <img src="img/response3.png" alt="alt text" style="width: 60%;">
+  <img src="img/response3.png" alt="alt text" style="width: 90%;">
 </div>
 
 ----
@@ -87,7 +87,7 @@
 ### 自拍厨房：检视常见的安全隐患
 <div style="text-align: right;">
   <img src="img/response4.jpg" alt="alt text" style="width: 70%;">
-  <img src="img/response4.png" alt="alt text" style="width: 60%;">
+  <img src="img/response4.png" alt="alt text" style="width: 90%;">
 </div>
 
 ----
