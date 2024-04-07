@@ -217,7 +217,7 @@
 
 
 ---
-其它（我们的项目）：生产线品管
+其它（支援合作项目）：生产线品管
 
 ![image](https://github.com/metatatt/_LLM-CAM-slides/assets/100538673/3605e102-f839-4d86-afe8-82da756855a4)
 
