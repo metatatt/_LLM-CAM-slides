@@ -34,6 +34,9 @@
 * **安全性**：采用正规的技术平台（微软云端），我们看不到用户的照片，我们也不保存用户记录。 
 
 ---
+<img src="img/scenario.svg" alt="alt text" style="width: 100%;">
+
+---
 
 ![image](https://github.com/metatatt/_LLM-CAM-slides/assets/100538673/02385230-20d4-496a-99f4-bb99f075ded5)
 
@@ -142,11 +145,6 @@
 ### 病历范文 ###
 
 样本范例（RAG+LLM生成）：	[病历3文本.md](病历3文本.md)
-
----
-
-## 【热点】场景示意图 ##
-<img src="img/scenario.svg" alt="alt text" style="width: 90%;">
 
 ----
 
