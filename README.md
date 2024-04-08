@@ -252,5 +252,9 @@
 
 ![image](https://github.com/metatatt/_LLM-CAM-slides/assets/100538673/3605e102-f839-4d86-afe8-82da756855a4)
 
+---
+Action Items：
 
+* **2024预算**- 给基金会老师
+* **热点**：in the air (?)
 
